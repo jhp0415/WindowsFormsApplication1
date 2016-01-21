@@ -16,3 +16,6 @@ C:\Users\Park JH\Desktop\수업자료\풀스텍\닷넷\WindowsFormsApplication1\
 C:\Users\Park JH\Desktop\수업자료\풀스텍\닷넷\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Park JH\Desktop\수업자료\풀스텍\닷넷\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Park JH\Desktop\수업자료\풀스텍\닷넷\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Park JH\Desktop\수업자료\풀스텍\Net\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Park JH\Desktop\수업자료\풀스텍\Net\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Park JH\Desktop\수업자료\풀스텍\Net\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
