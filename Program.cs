@@ -22,4 +22,6 @@ namespace WindowsFormsApplication1
 }
 
 
-//수정했어요
+/*
+ 수정을 완료하였습니다.
+ */
